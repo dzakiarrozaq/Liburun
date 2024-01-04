@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Liburun</string>
+    <string name="Nama_Profil">Muhammad Dzaki Arrozaq</string>
+    <string name="Email_Profil">a283bsy2886@bangkit.academy</string>
+    <string name="Label_detail">DetailActivity</string>
+    <string name="Label_About">AboutActivity</string>
+</resources>
